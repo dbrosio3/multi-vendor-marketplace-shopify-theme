@@ -1,3 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
-  alert("Hello World from Shopify!");
+  console.log("Hello World from Shopify!");
 });
+
+console.log("Hello World");
+
